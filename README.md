@@ -17,6 +17,10 @@ __tl;dr__ Switch your keyboard from ENG (US) or (UK) to ENG (International). The
 "+U = Ü
 ```
 
+```
+ALT+s = ß
+```
+
 
 ![](./äöü_01.png)
 Go to Settings and choose Time&Language
